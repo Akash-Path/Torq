@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "905609003076",
+    "project_id": "torqnetwork-309e8",
+    "storage_bucket": "torqnetwork-309e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905609003076:android:faa0b9e1c048f93f93fc11",
+        "android_client_info": {
+          "package_name": "com.torqnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905609003076-l5f3e5nh14jjhhouq02us4scnukd2215.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torqnetwork",
+            "certificate_hash": "f0a457ba4ab4596f98e4e61ee943c04c917beb35"
+          }
+        },
+        {
+          "client_id": "905609003076-te4l9hf8ag0bk5fq8htrfos5ovs3e0q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torqnetwork",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "905609003076-96an5gftkrtl45p06qp6upfamd1b76ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmjr8wVyoap1M9Seg-iU9fukxq2Ptd1NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905609003076-96an5gftkrtl45p06qp6upfamd1b76ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
