@@ -1,0 +1,23 @@
+export const coins = {
+    BTC : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/btc.png',
+    ETH : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/eth.png',
+    BNB : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bnb.png',
+    SOL : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/sol.png',
+    XRP : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/xrp.png',
+    ADA : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ada.png',
+    DOGE : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/doge.png',
+    AVAX : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/avax.png',
+    TRX : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/trx.png',
+    DAI : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/dai.png',
+    DOT : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/dot.png',
+    LINK : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/link.png',
+    MATIC : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/matic.png',
+    SHIB : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/shib.png',
+    LTC : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ltc.png',
+    ICP : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/icp.png',
+    BCH : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/bch.png',
+    ATOM : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/atom.png',
+    UNI : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/uni.png',
+    TON : 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/ton.png',
+    OP: 'https://lcw.nyc3.cdn.digitaloceanspaces.com/production/currencies/64/op.webp'
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "your-value-here",
+    "project_id": "your-value-here",
+    "storage_bucket": "your-value-here"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "your-value-here",
+        "android_client_info": {
+          "package_name": "com.torqnetwork"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "your-value-here"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

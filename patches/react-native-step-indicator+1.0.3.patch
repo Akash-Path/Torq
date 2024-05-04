@@ -1,0 +1,54 @@
+diff --git a/node_modules/react-native-step-indicator/src/index.tsx b/node_modules/react-native-step-indicator/src/index.tsx
+index 222aeb6..72d4ecd 100644
+--- a/node_modules/react-native-step-indicator/src/index.tsx
++++ b/node_modules/react-native-step-indicator/src/index.tsx
+@@ -41,12 +41,12 @@ interface DefaultStepIndicatorStyles {
+   labelColor: string;
+   labelSize: number;
+   labelAlign:
+-    | 'center'
+-    | 'flex-start'
+-    | 'flex-end'
+-    | 'stretch'
+-    | 'baseline'
+-    | undefined;
++  | 'center'
++  | 'flex-start'
++  | 'flex-end'
++  | 'stretch'
++  | 'baseline'
++  | undefined;
+   currentStepLabelColor: string;
+   labelFontFamily?: string;
+ }
+@@ -231,13 +231,13 @@ const StepIndicator = ({
+           styles.stepIndicatorContainer,
+           direction === 'vertical'
+             ? {
+-                flexDirection: 'column',
+-                width: customStyles.currentStepIndicatorSize,
+-              }
++              flexDirection: 'column',
++              width: customStyles.currentStepIndicatorSize,
++            }
+             : {
+-                flexDirection: 'row',
+-                height: customStyles.currentStepIndicatorSize,
+-              },
++              flexDirection: 'row',
++              height: customStyles.currentStepIndicatorSize,
++            },
+         ]}
+       >
+         {steps}
+@@ -311,8 +311,8 @@ const StepIndicator = ({
+           backgroundColor: customStyles.stepIndicatorCurrentColor,
+           borderWidth: customStyles.currentStepStrokeWidth,
+           borderColor: customStyles.stepStrokeCurrentColor,
+-          height: sizeAnim,
+-          width: sizeAnim,
++          height: staleSizeAnim,
++          width: staleSizeAnim,
+           borderRadius: borderRadiusAnim,
+           overflow: 'hidden',
+         };
